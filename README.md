@@ -1,5 +1,7 @@
 **Stock Market Prediction**
-![Stock-Market-Prediction](assets/images/StockMarketETL.jpeg)
+
+![Stock-Market-Prediction](StockMarketETL.jpeg)
+
 **Tech Stack:** Python, Jupyter Notebook, AWS Cloud Architecture 
 
 •	Automated ETL pipeline capable of handling dynamic inputs, reduced manual data processing time by 70% and streamlining financial metric calculations.
