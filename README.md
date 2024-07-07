@@ -1,6 +1,6 @@
 **Stock Market Prediction**
 
-![Stock-Market-Prediction](/Images/)
+![Stock-Market-Prediction](/Images/1.jpeg)
 
 **Tech Stack:** Python, Jupyter Notebook, AWS Cloud Architecture 
 
