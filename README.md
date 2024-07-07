@@ -1,6 +1,6 @@
 **Stock Market Prediction**
 
-![Stock-Market-Prediction](StockMarketETL.jpeg)
+![Stock-Market-Prediction](/Images/StockMarketETL.jpeg)
 
 **Tech Stack:** Python, Jupyter Notebook, AWS Cloud Architecture 
 
